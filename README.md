@@ -18,3 +18,4 @@ protoc --go-interface_out=. --go-interface_opt=paths=source_relative ./*.proto
 todo
 
 - enum
+- nested message
