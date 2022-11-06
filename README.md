@@ -6,7 +6,7 @@ go install .
 
 # or
 
-go install github.com/David0922/protoc-gen-go-interface
+go install github.com/David0922/protoc-gen-go-interface@latest
 ```
 
 usage
